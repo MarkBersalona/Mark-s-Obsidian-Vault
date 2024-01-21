@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "212d9819f6b42eca",
+        "id": "a391c32e4e740ba5",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe192b9e03158cd",
+            "id": "95008048bb91253b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#recipe",
+                "query": "tag:#event",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,33 +138,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbe192b9e03158cd",
+  "active": "95008048bb91253b",
   "lastOpenFiles": [
-    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
-    "Permanent notes/Turn off auto display of titles in Obsidian settings.md",
-    "Permanent notes/Turn off auto display of title in Obsidian settings.md",
-    "Notes",
+    "Notes/2021.05.06 400 Cellular to Washington Lake Park.md",
+    "Notes/2021.05.07 400 Cellular trip through Pine Barrens.md",
+    "Notes/2021.05.17 Baltimore Harbor Tunnel to Annapolis to western Delaware round trip.md",
+    "Notes/2021.05.24 Baltimore to Annapolis to western MD.md",
+    "Notes/2021.05.26 AC Expressway.md",
+    "Notes/2021.05.27 Baltimore to Annapolis to western MD.md",
+    "Notes/2021.05.28 AC Expressway.md",
+    "Notes/2021.05.28 White Castle.md",
+    "Notes/2021.06.01 Various South NJ.md",
+    "Notes/2021.06.02 Exton.md",
+    "Notes/2021.06.07 Cape May Lewes ferry.md",
+    "Notes/2021.06.25 AC Expressway.md",
+    "Notes/2021.07.30 Sensaphone to Baltimore-Annapolis-Chesapeake Bay.md",
+    "Notes/2021.07.28 Sensaphone to Baltimore-Annapolis-Chesapeake Bay.md",
+    "Notes/2021.07.23 Sensaphone to Baltimore-Annapolis-Chesapeake Bay.md",
+    "Notes/2021.06.27 AC Expressway.md",
     "README.md",
-    "Templates/NewNote.md",
-    "Notes/Rao's Meatballs.md",
-    "Notes/NYC-style pizza sauce.md",
-    "Notes/Meat with sauce.md",
-    "Notes/Mark’s Pepper Blend 1.md",
-    "Notes/Mark's Pine Tar Soap 2.md",
-    "Notes/Mark's Pine Tar Soap 1.md",
-    "Notes/Mark's Dry Rub 1.md",
-    "Notes/Homemade ramen seasoning.md",
-    "Notes/Homemade croutons.md",
-    "Notes/Hamburger special sauce.md",
-    "Notes/Chicken croquettes.md",
-    "Notes/Bacon Cheeseburger Crock Pot Dip.md",
-    "Templates/Title.md",
-    "2024-01-20.md",
-    "Templates/Mark's Dry Rub 1.md",
+    "Notes/2021.08.16 AC Expressway.md",
+    "Notes/2021.12.13 Baltimore-Annapolis-Chesapeake Bay loop.md",
+    "Notes/2023.05.24 400 Cellular around Sensaphone.md",
+    "Notes/2023.05.25 RGM to Annapolis.md",
+    "Notes/2023.05.30 NAWCC to Annapolis.md",
+    "Notes/2023.06.05 Home to A expressway rest stop.md",
+    "Notes/2023.06.06 Lancaster County to Baltimore to Annapolis.md",
+    "Notes/Bersalona Pilot watch.md",
+    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+    "Notes",
     "Permanent notes",
     "Literature notes",
     "Fleeting notes",
-    "Welcome.md",
     "Templates"
   ]
 }
