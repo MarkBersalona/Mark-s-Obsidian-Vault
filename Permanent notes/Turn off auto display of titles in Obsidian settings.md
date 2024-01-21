@@ -11,6 +11,6 @@ In Obsidian settings, can turn off this feature
 - was enabled by default
 
 ## References
-
+[[Can insert more than 1 template in an Obsidian note]]
 ## Tags
 #Obsidian

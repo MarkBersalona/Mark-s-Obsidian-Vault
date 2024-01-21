@@ -8,6 +8,6 @@ I added the title to existing notes by creating the 'Title' template
 Then in an Obsidian note missing a title header, put the cursor at the start of the note and insert the Title template
 
 ## References
-
+[[Turn off auto display of titles in Obsidian settings]]
 ## Tags
 #Obsidian 

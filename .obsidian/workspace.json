@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a391c32e4e740ba5",
+        "id": "b2f571491990539b",
         "type": "tabs",
         "children": [
           {
-            "id": "95008048bb91253b",
+            "id": "c0d15a1cd1904cf6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -138,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95008048bb91253b",
+  "active": "c0d15a1cd1904cf6",
   "lastOpenFiles": [
+    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+    "Permanent notes/Turn off auto display of titles in Obsidian settings.md",
     "Notes/2021.05.06 400 Cellular to Washington Lake Park.md",
     "Notes/2021.05.07 400 Cellular trip through Pine Barrens.md",
     "Notes/2021.05.17 Baltimore Harbor Tunnel to Annapolis to western Delaware round trip.md",
@@ -164,8 +166,6 @@
     "Notes/2023.05.30 NAWCC to Annapolis.md",
     "Notes/2023.06.05 Home to A expressway rest stop.md",
     "Notes/2023.06.06 Lancaster County to Baltimore to Annapolis.md",
-    "Notes/Bersalona Pilot watch.md",
-    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
     "Notes",
     "Permanent notes",
     "Literature notes",
