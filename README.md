@@ -7,7 +7,7 @@ Have heard and learned about Obsidian from assorted YouTube videos. The idea of 
 So! Over the years I've accummulated notes in various tools and places
 - Personal Knowbase (Windows only)
 - Google Keep (Windows, Mac, Linux, Android, etc.)
-- Facebook
+- Facebook (Facebook Notes was deprecated a few years ago; I had copied those notes to Google Keep)
 - Bersalona.com
 
 My notes in Personal Knowbase are the highest priority to bring into Obsidian, since Personal Knowbase is proprietary. But I'll probably practice using Obsidian first: **will start with recipes**.
