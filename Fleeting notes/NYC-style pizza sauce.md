@@ -1,3 +1,4 @@
+# NYC-style pizza sauce
 Created: 2023.01.01
 
 1 28oz can Redpack Crushed Tomatoes  

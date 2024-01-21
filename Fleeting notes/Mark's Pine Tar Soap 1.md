@@ -1,3 +1,4 @@
+# Mark's Pine Tar Soap 1
 Created: 2012.09.11
 
 The palm oil finally arrived, so today will be my first attempt at making soap at home - specifically, a lathering pine tar soap based on the following cold-process recipe. (All values by weight)  

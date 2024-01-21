@@ -1,3 +1,4 @@
+# Mark's Dry Rub 1
 Created: 2023.08.26
 
 Quantity good for 1 chuck roast  

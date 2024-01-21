@@ -1,3 +1,4 @@
+# Mark’s Pepper Blend 1
 Created: 2016.07.10
 
 My last attempt many months ago (a year ago maybe?) to mix a blend of peppercorns started as an equal blend by weight of black, white, green and pink peppercorns. It didn’t taste right, so I added more black peppercorns to taste better. What I didn’t realize was that green and pink peppercorns weigh less than black and white peppercorns.  

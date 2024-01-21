@@ -3,5 +3,7 @@
   "attachmentFolderPath": "./",
   "userIgnoreFilters": [
     "Templates/"
-  ]
+  ],
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

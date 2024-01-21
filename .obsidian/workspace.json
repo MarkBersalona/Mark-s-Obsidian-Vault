@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "784eec8c71a9a301",
+        "id": "212d9819f6b42eca",
         "type": "tabs",
         "children": [
           {
-            "id": "e01abf8b40809887",
+            "id": "cbe192b9e03158cd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,24 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e01abf8b40809887",
+  "active": "cbe192b9e03158cd",
   "lastOpenFiles": [
-    "Fleeting notes/Homemade ramen seasoning.md",
-    "Fleeting notes/Mark's Dry Rub 1.md",
-    "Fleeting notes/Mark's Pine Tar Soap 1.md",
-    "Fleeting notes/Mark's Pine Tar Soap 2.md",
-    "2024-01-20.md",
-    "Fleeting notes/Bacon Cheeseburger Crock Pot Dip.md",
     "README.md",
-    "Fleeting notes/Homemade croutons.md",
     "Templates/NewNote.md",
+    "Fleeting notes/Rao's Meatballs.md",
+    "Fleeting notes/NYC-style pizza sauce.md",
     "Fleeting notes/Meat with sauce.md",
     "Fleeting notes/Mark’s Pepper Blend 1.md",
-    "Fleeting notes/NYC-style pizza sauce.md",
+    "Fleeting notes/Mark's Pine Tar Soap 2.md",
+    "Fleeting notes/Mark's Pine Tar Soap 1.md",
+    "Fleeting notes/Mark's Dry Rub 1.md",
+    "Fleeting notes/Homemade ramen seasoning.md",
+    "Fleeting notes/Homemade croutons.md",
     "Fleeting notes/Hamburger special sauce.md",
     "Fleeting notes/Chicken croquettes.md",
-    "Fleeting notes/Rao's Meatballs.md",
-    "Templates/Untitled.md",
+    "Fleeting notes/Bacon Cheeseburger Crock Pot Dip.md",
+    "Templates/Title.md",
+    "2024-01-20.md",
     "Templates/Mark's Dry Rub 1.md",
     "Permanent notes",
     "Literature notes",

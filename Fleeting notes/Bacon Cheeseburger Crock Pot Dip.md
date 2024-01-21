@@ -1,3 +1,4 @@
+# Bacon Cheeseburger Crock Pot Dip
 Created: 2014.11.27
 
 ## Ingredients  

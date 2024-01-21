@@ -1,3 +1,4 @@
+# Chicken croquettes
 Created: 2023.02.25
 
 Nothing reminds me of a diner more than the classics! Chicken croquettes bring me back to trips to the diner back in the day! Big pile of mashed potatoes with pyramids of fried chicken goodness smothered in a thick yellow gravy! You just don’t find them anymore! Well, like bell bottoms, let’s bring this classic back to life with a nice easy recipe that you can do at home with ingredients probably already on hand!  
