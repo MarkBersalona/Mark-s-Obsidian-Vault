@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0fa2f903e1d3551",
+        "id": "20bd36623d66e458",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1bd3fa783b9d25",
+            "id": "d4af1f9443dc47e9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#event",
+                "query": "tag:#poetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0a8aec1bdf1c363d",
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c1bd3fa783b9d25",
+  "active": "d4af1f9443dc47e9",
   "lastOpenFiles": [
+    "Notes/How to make stock the right way the wrong way and when it matters.md",
+    "Notes/Royal Caronian.md",
+    "Notes/Prince Ambassador Oroth.md",
+    "Notes/Windsong.md",
+    "Literature notes/Install VB6 on Windows 7.md",
+    "Literature notes/The Gentlemanly Art of the Insult.md",
+    "Literature notes/Why I Will Never Ever Hire A Social Media Expert.md",
+    "Literature notes/Smooth sailing - for the most part.md",
+    "Notes/M'Raketh.md",
+    "Notes/Caron Empire emperors.md",
+    "Notes/Investing questions for Cindy.md",
     "Permanent notes/The act of creation is God-like.md",
     "Literature notes/Robert Frost.md",
     "Literature notes/The Road Not Taken.md",
@@ -147,7 +158,6 @@
     "Notes/Watch batteries.md",
     "Literature notes/Young Blood.md",
     "Notes/Chess game waiting for The Batman.md",
-    "Notes/Investing questions for Cindy.md",
     "Notes/Investing All-In-One For Dummies.md",
     "Notes/My Secret Santa list 2023.md",
     "README.md",
@@ -156,16 +166,6 @@
     "Notes/2021.05.06 400 Cellular to Washington Lake Park.md",
     "Notes/2021.05.07 400 Cellular trip through Pine Barrens.md",
     "Notes/2021.05.17 Baltimore Harbor Tunnel to Annapolis to western Delaware round trip.md",
-    "Notes/2021.05.24 Baltimore to Annapolis to western MD.md",
-    "Notes/2021.05.26 AC Expressway.md",
-    "Notes/2021.05.27 Baltimore to Annapolis to western MD.md",
-    "Notes/2021.05.28 AC Expressway.md",
-    "Notes/2021.06.01 Various South NJ.md",
-    "Notes/2021.06.02 Exton.md",
-    "Notes/2021.06.07 Cape May Lewes ferry.md",
-    "Notes/2021.06.25 AC Expressway.md",
-    "Notes/2021.07.30 Sensaphone to Baltimore-Annapolis-Chesapeake Bay.md",
-    "Notes/2021.07.28 Sensaphone to Baltimore-Annapolis-Chesapeake Bay.md",
     "Notes",
     "Permanent notes",
     "Literature notes",
