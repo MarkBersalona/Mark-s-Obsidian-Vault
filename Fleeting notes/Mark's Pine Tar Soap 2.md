@@ -13,6 +13,6 @@ Lye (NaOH) - 8.56 oz (242.8 g)
 Lined the soap loaf mold with wax paper this time instead of art paper. Let the lye solution and the oils cool off to about 110 degF before adding the lye solution to the oils. Mixture was still gritty; mixed for about a minute before pouring into mold.
 
 ## References
-
+[[Mark's Pine Tar Soap 1]]
 ## Tags
 #recipe 
