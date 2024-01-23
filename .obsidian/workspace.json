@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "20bd36623d66e458",
+        "id": "d9dc0c58c0918649",
         "type": "tabs",
         "children": [
           {
-            "id": "d4af1f9443dc47e9",
+            "id": "3de7aa348cd6584e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+                "file": "Notes/Install VB6 on Windows 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+                "file": "Notes/Install VB6 on Windows 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permanent notes/Can insert more than 1 template in an Obsidian note.md"
+                "file": "Notes/Install VB6 on Windows 7.md"
               }
             }
           }
@@ -146,24 +142,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4af1f9443dc47e9",
+  "active": "4ba087dbab4f1343",
   "lastOpenFiles": [
+    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+    "Permanent notes/The act of creation is God-like.md",
     "README.md",
     "Notes/How to make stock the right way the wrong way and when it matters.md",
     "Notes/Royal Caronian.md",
     "Notes/Prince Ambassador Oroth.md",
     "Notes/Windsong.md",
-    "Literature notes/Install VB6 on Windows 7.md",
+    "Notes/Install VB6 on Windows 7.md",
     "Literature notes/The Gentlemanly Art of the Insult.md",
     "Literature notes/Why I Will Never Ever Hire A Social Media Expert.md",
     "Literature notes/Smooth sailing - for the most part.md",
     "Notes/M'Raketh.md",
     "Notes/Caron Empire emperors.md",
     "Notes/Investing questions for Cindy.md",
-    "Permanent notes/The act of creation is God-like.md",
     "Literature notes/Robert Frost.md",
     "Literature notes/The Road Not Taken.md",
-    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
     "Notes/Watch batteries.md",
     "Literature notes/Young Blood.md",
     "Notes/Chess game waiting for The Batman.md",
