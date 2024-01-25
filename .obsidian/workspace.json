@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9dc0c58c0918649",
+        "id": "56a2c24cc3e0e06f",
         "type": "tabs",
         "children": [
           {
-            "id": "3de7aa348cd6584e",
+            "id": "8f1158ff7e5cd094",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Install VB6 on Windows 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Install VB6 on Windows 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Install VB6 on Windows 7.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -142,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ba087dbab4f1343",
+  "active": "8f1158ff7e5cd094",
   "lastOpenFiles": [
-    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+    "Literature notes/What is fried rice syndrome.md",
+    "Permanent notes/Turn off auto display of titles in Obsidian settings.md",
     "Permanent notes/The act of creation is God-like.md",
+    "Permanent notes/Can insert more than 1 template in an Obsidian note.md",
+    "Literature notes/Young Blood.md",
+    "Literature notes/The Road Not Taken.md",
+    "Literature notes/Robert Frost.md",
     "README.md",
     "Notes/How to make stock the right way the wrong way and when it matters.md",
     "Notes/Royal Caronian.md",
@@ -158,18 +159,13 @@
     "Notes/M'Raketh.md",
     "Notes/Caron Empire emperors.md",
     "Notes/Investing questions for Cindy.md",
-    "Literature notes/Robert Frost.md",
-    "Literature notes/The Road Not Taken.md",
     "Notes/Watch batteries.md",
-    "Literature notes/Young Blood.md",
     "Notes/Chess game waiting for The Batman.md",
     "Notes/Investing All-In-One For Dummies.md",
     "Notes/My Secret Santa list 2023.md",
     "Notes/2021.05.28 White Castle.md",
-    "Permanent notes/Turn off auto display of titles in Obsidian settings.md",
     "Notes/2021.05.06 400 Cellular to Washington Lake Park.md",
     "Notes/2021.05.07 400 Cellular trip through Pine Barrens.md",
-    "Notes/2021.05.17 Baltimore Harbor Tunnel to Annapolis to western Delaware round trip.md",
     "Notes",
     "Permanent notes",
     "Literature notes",
