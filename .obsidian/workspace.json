@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56a2c24cc3e0e06f",
+        "id": "851644936d70ef49",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1158ff7e5cd094",
+            "id": "cd81e01957631809",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -138,8 +138,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1158ff7e5cd094",
+  "active": "cd81e01957631809",
   "lastOpenFiles": [
+    "Literature notes/The Marlin Golden 39A.md",
+    "Literature notes/The Kahr PM9 Pistol.md",
+    "Literature notes/The Famous .303 British.md",
+    "Literature notes/SiG-Sauer’s P-226 9x19mm Pistol.md",
+    "Literature notes/The All Business SiG P226-9-Navy Pistol.md",
+    "Literature notes/The 7.62x54R (7.62x53R) Russian.md",
+    "Literature notes/The 7.62x39 Soviet (Russian).md",
+    "Literature notes/Smith & Wesson’s M&P .45 ACP Pistol.md",
+    "Literature notes/Savage Mark II-BV Accu-Trigger .22 Rifle.md",
+    "Literature notes/Benelli's MR-1 .223 Autoloader - A Game-Changer.md",
+    "Notes/Untitled.md",
     "Literature notes/What is fried rice syndrome.md",
     "Permanent notes/Turn off auto display of titles in Obsidian settings.md",
     "Permanent notes/The act of creation is God-like.md",
@@ -155,17 +166,6 @@
     "Notes/Install VB6 on Windows 7.md",
     "Literature notes/The Gentlemanly Art of the Insult.md",
     "Literature notes/Why I Will Never Ever Hire A Social Media Expert.md",
-    "Literature notes/Smooth sailing - for the most part.md",
-    "Notes/M'Raketh.md",
-    "Notes/Caron Empire emperors.md",
-    "Notes/Investing questions for Cindy.md",
-    "Notes/Watch batteries.md",
-    "Notes/Chess game waiting for The Batman.md",
-    "Notes/Investing All-In-One For Dummies.md",
-    "Notes/My Secret Santa list 2023.md",
-    "Notes/2021.05.28 White Castle.md",
-    "Notes/2021.05.06 400 Cellular to Washington Lake Park.md",
-    "Notes/2021.05.07 400 Cellular trip through Pine Barrens.md",
     "Notes",
     "Permanent notes",
     "Literature notes",
